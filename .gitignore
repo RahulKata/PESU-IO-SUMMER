@@ -1,0 +1,5 @@
+*.pyc
+.idea/
+PESU_IO_SUMMER/
+osmodule.py
+IO_Course/
